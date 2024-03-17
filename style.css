@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.boxes{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 10px 10px;
+}
